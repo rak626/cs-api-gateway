@@ -1,10 +1,10 @@
-package com.crowdseats.cs_api_gateway;
+package com.crowdseats.api_gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CsApiGatewayApplicationTests {
+class ApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
